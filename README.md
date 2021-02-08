@@ -4,13 +4,15 @@
 
 Welcome to my page!
 
-- 💙 I'm a Teen who loves to build things
+- 🔥 Name: Sanjay Selvadevan
+- 💙 I'm a Teen who loves to code and build things
 - 🌱 I’m currently learning Python and HTML
 - 📚 Currently studying for exams
 - 😄 Fun Fact: I like Sicky Notes
-- ✉️ Feel free to get in [touch](mailto:explorist20@gmail.com.) with me
 - 💬 Ask me aboutthings you wanna ask about!
 - 🥔 I love Pottoes!
+- ✉️ Feel free to get in [touch](mailto:explorist20@gmail.com.) with me
+
 
 
 
