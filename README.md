@@ -10,9 +10,8 @@ Welcome to my page!
 - 📚 Currently studying for exams
 - 🎵 Favorite Song is [Rakita Rakita Rakita](https://www.youtube.com/watch?v=5UmaMK_OfPw) and [Bad](https://www.youtube.com/watch?v=5UmaMK_OfPw)
 - 😄 Fun Fact: I like Sicky Notes
-- 💬 Ask me aboutthings you wanna ask about!
 - 🥔 I love Potatoes!
-- ✉️ Feel free to get in [touch](mailto:explorist20@gmail.com.) with me
+- 💬 Ask me aboutthings you wanna ask about!
 
 
 
