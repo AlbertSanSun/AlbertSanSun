@@ -8,6 +8,7 @@ Welcome to my page!
 - 💙 I'm a Teen who loves to code and build things
 - 🌱 I’m currently learning Python and HTML
 - 📚 Currently studying for exams
+- 🎵 Favorite Song is [Rakita Rakita Rakita](https://www.youtube.com/watch?v=5UmaMK_OfPw) and [Bad](https://www.youtube.com/watch?v=5UmaMK_OfPw)
 - 😄 Fun Fact: I like Sicky Notes
 - 💬 Ask me aboutthings you wanna ask about!
 - 🥔 I love Pottoes!
