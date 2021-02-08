@@ -4,7 +4,7 @@
 
 Welcome to my page!
 
-- 💙 I'm a Teen love to build things
+- 💙 I'm a Teen who loves to build things
 - 🌱 I’m currently learning Python and HTML
 - 📚 Currently studying for exams
 - 😄 Fun Fact: I like Sicky Notes
