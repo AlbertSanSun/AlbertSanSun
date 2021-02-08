@@ -5,7 +5,7 @@
 Welcome to my page!
 
 - 🔥 Name: Sanjay Selvadevan
-- 💙 I'm a Teen who loves to code and build things and intrested in Math And Science.
+- 💙 I'm a Teen who loves to code and build things. And also loves Math And Science.
 - 🌱 I’m currently learning Python and HTML
 - 📚 Currently studying for exams
 - 🎵 Favorite Song is [Rakita Rakita Rakita](https://www.youtube.com/watch?v=5UmaMK_OfPw) and [Bad](https://www.youtube.com/watch?v=5UmaMK_OfPw)
