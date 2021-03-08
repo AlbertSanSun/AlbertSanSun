@@ -1,17 +1,18 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1>( ͡° ͜ʖ ͡°)
+ Hey!!.</h1>
 
-<img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
+<img align="right" height="250" alt="GIF" src="https://raw.githubusercontent.com/Mr-LennyFace/Mr-LennyFace/main/android-chrome-512x512.png" />
 
 Welcome to my page!
 
-- 🔥 Name: Sanjay Selvadevan
+- 🔥 Name: Sanjay Selvadevan 
 - 💙 I'm a Teen who loves to code and build things. And also loves Math And Science.
-- 🌱 I’m currently learning Python and HTML
+- 🌱 I’m currently learning Python and HTML and JS
 - 📚 Currently studying for exams
-- 🎵 Favorite Song is [Rakita Rakita Rakita](https://www.youtube.com/watch?v=5UmaMK_OfPw) and [Bad](https://www.youtube.com/watch?v=5UmaMK_OfPw)
-- 😄 Fun Fact: I like Sicky Notes
 - 🥔 I love Potatoes!
 - 💬 Ask me aboutthings you wanna ask about!
+- ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°)
+
 
 
 
