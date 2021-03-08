@@ -1,5 +1,4 @@
-<h1>( ͡° ͜ʖ ͡°)
- Hey!!.</h1>
+<h1>Hi! ( ͡° ͜ʖ ͡°)</h1>
 
 <img align="right" height="250" alt="GIF" src="https://raw.githubusercontent.com/Mr-LennyFace/Mr-LennyFace/main/android-chrome-512x512.png" />
 
