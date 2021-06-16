@@ -5,9 +5,8 @@
 Welcome to my page!
 
 - 🔥 Name: Sanjay Selvadevan 
-- 💙 I'm a Student who loves to code and build things. And I also love Math And Science.
+- 💙 I'm a Student who loves Math And Science.
 - 🌱 I’m currently learning Python and HTML and JS
-- 📚 Currently studying for exams
 - 🥔 I love Potatoes!
 - 💬 Ask me aboutthings you wanna ask about!
 
